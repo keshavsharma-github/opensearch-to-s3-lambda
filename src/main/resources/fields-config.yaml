@@ -1,0 +1,4 @@
+fieldMappings:
+  directors: string
+  actors: string
+  year: integer
